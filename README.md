@@ -34,9 +34,9 @@ following IEEE 830 and IEEE 829 standards.
 | API | 18 | 16 | 2 | 0 | 89% |
 | Database | 14 | 0 | 0 | 14 | N/A |
 | **TOTAL** | **123** | **99** | **9** | **15** | **80%** |
-(excluding Blocked Database cases: 99/109 = **91% Pass Rate**
 
 ---
+(excluding Blocked Database cases: 99/109 = **91% Pass Rate**)
 
 ## Key Findings
 
