@@ -12,7 +12,7 @@
 
 End-to-end manual QA project for the **FreeTV iOS streaming application**, covering the full QA lifecycle — requirements, test planning, design, execution, defect reporting, and final reporting — following the **IEEE 830** and **IEEE 829** standards.
 
-[![FreeTV QA Project Cover](https://github.com/quality-krl/FreeTV_iOS_E2E_QA_Project_STR_STD_STP_SRS/raw/main/assets/screenshots/freetv_cover.png)](https://github.com/quality-krl/FreeTV_iOS_E2E_QA_Project_STR_STD_STP_SRS/blob/main/assets/screenshots/freetv_cover.png)
+[![FreeTV QA Project Cover](https://github.com/quality-krl/FreeTV_iOS_E2E_QA_Project_STR_STD_STP_SRS/raw/main/assets/screenshots/freetv_cover.png?v=2)](https://github.com/quality-krl/FreeTV_iOS_E2E_QA_Project_STR_STD_STP_SRS/blob/main/assets/screenshots/freetv_cover.png)
 
 ---
 
